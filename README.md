@@ -21,7 +21,7 @@ Berikut adalah dokumentasi tampilan dari sistem penjualan:
 
 ## Teknologi yang Digunakan
 * **Bahasa Pemrograman:** Bash Shell Scripting.
-* **Sistem Operasi:** Disarankan dijalankan pada lingkungan Linux, Cloud Shell.
+* **Sistem Operasi:** Disarankan dijalankan pada Linux, Cloud Shell.
 
 ## Prasyarat Instalasi
 Pastikan sistem Anda sudah terinstall Bash. Ikuti langkah berikut untuk menjalankan project:
