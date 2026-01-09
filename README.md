@@ -1,6 +1,6 @@
 # Sistem Penjualan Makanan
 
-Aplikasi kasir sederhana berbasis CLI (Command Line Interface) yang dibuat menggunakan Bash Script untuk mencatat pembelian makanan secara cepat dan praktis.
+Aplikasi kasir sederhana berbasis CLI (Command Line Interface) yang dibuat menggunakan Bash Script untuk mencatat penjualan makanan secara cepat dan praktis.
 
 ## Tampilan Aplikasi
 Berikut adalah dokumentasi tampilan dari sistem penjualan:
